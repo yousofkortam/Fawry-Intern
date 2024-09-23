@@ -3,7 +3,7 @@
 
 ### The internship is onsite at the Quantum Building in Smart Village.
 
-![Fawry-Building](https://github.com/user-attachments/assets/c62ef668-2bab-4755-afbd-ea8300e3e5a9)
+![Fawry-Building](https://github.com/user-attachments/assets/6ab0a7b4-9fa8-4356-8619-4f301e067296)
 
 ## Internship Content
 
@@ -51,7 +51,7 @@
   </tbody>
 </table>
 
-# <details align="center"><summary>Some Memorable pictures</summary>![fawry4-crop](https://github.com/user-attachments/assets/607c68ae-f48f-440c-b2a1-f0befdce9862)</details>
+# <details align="center"><summary>Some Memorable pictures</summary>![fawry-pic](https://github.com/user-attachments/assets/0b6284b3-2fd5-4a1d-b3dc-9b3158daa768)</details>
 
 > ### Please Notice ⬇
 <a href="https://github.com/yousofkortam/Fawry-Internship">
