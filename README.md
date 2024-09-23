@@ -62,6 +62,6 @@
 # <details align="center"><summary>Some Memorable pictures</summary>![fawry-pic](https://github.com/user-attachments/assets/0b6284b3-2fd5-4a1d-b3dc-9b3158daa768)</details>
 
 > ### Please Notice ⬇
-<a href="https://github.com/yousofkortam/Fawry-Internship">
-    <img src="https://img.shields.io/badge/Repo%20Status-Under%20Development%20%E2%80%93%20Work%20in%20Progress-Dark%20Gray?labelColor=White&style=social&logo=github&link=https://github.com/yousofkortam/Fawry-Internship" alt="Repo Status" />
+<a href="https://github.com/yousofkortam/Fawry-Intern">
+    <img src="https://img.shields.io/badge/Repo%20Status-Under%20Development%20%E2%80%93%20Work%20in%20Progress-Dark%20Gray?labelColor=White&style=social&logo=github&link=https://github.com/yousofkortam/Fawry-Intern" alt="Repo Status" />
 </a>
