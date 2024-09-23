@@ -6,7 +6,7 @@
 - #### From [GeeksForGeeks](https://www.geeksforgeeks.org/collections-in-java-2/) Website
 - #### Eng. Asmaa [GitHub Repo](https://github.com/AsmaaIR/java-topics) & [2023JUL Session](https://drive.google.com/file/d/1eJQr-JnOhET2pmU21lBQOhprVoyeFAEk/view?usp=drive_link)
 
-## Tasks
+## Task:
 
 ### We should read and discuss the following use-cases and see the suitable java collection for every use-case:
 
