@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Week-01/Java-8/java8 Assignment/pom.xml" />
+        <option value="$PROJECT_DIR$/Week-02/JakartaEE/WebTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Week-02/Unit-Testing/UnitTestTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Week-02/Design-Patterns-2/DesingPatternTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Week-03/Programming-Paradigm/ProgrammingParadigmTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Week-03/JDBC/jdbcTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Week-04/Spring-Core/custom-qualifier/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Week-04/Spring-Core/custom-qualifier/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
