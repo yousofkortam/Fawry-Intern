@@ -4,7 +4,7 @@
 - ### Eng.Ahmed Ali [Session](https://drive.google.com/file/d/119uReMUejT4WrFITEs-NeJ3jhkANI9xO/view?usp=sharing&t=1) & [Slide](https://docs.google.com/presentation/d/10vaAvSVvY5s6_jS8t63uiQyrSU9788LJ/edit?usp=drive_link&ouid=106602249169714255267&rtpof=true&sd=true)
 
 ## Task:
-![tmp_aaa353d0-f4fe-4355-9f56-9f16688d438e](https://github.com/user-attachments/assets/ada65ed5-d971-4720-874d-33697a68d203)
+![tmp_aaa353d0-f4fe-4355-9f56-9f16688d438e](https://github.com/user-attachments/assets/ac63b656-ccf0-4753-9028-da43df62172e)
 
 - Check the above picture and create a system that can simulate the process of creating these furniture.
 - Use your knowledge in design patterns mainly the abstract factory pattern.
