@@ -1,5 +1,5 @@
 # Fawry-Internship
-- This repo contains the resources, tasks, and projects I have done during my internship at [**Fawry**](https://www.fawry.com/).
+- This repo contains the resources, and projects I have done during my internship at [**Fawry**](https://www.fawry.com/).
 
 ### The internship is onsite at the Quantum Building in Smart Village.
 
